@@ -1,4 +1,4 @@
-local KEYBIND = 'Z' -- change the keybind to whatever you want
+local KEYBIND = 'B' -- change the keybind to whatever you want
 
 if renderdupe then 
     warn('[!] dupe already loaded!')
